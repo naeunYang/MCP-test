@@ -1,6 +1,7 @@
 # Ctrl + I : AI 채팅
 # Ctrl + k : 코드 요청
 # 구구단 출력
+# 테스트입니다.
 end = int(input("몇 단까지 출력할까요? "))
 for i in range(2, end + 1):
     print(f"\n{i}단:")

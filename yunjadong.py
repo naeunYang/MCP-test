@@ -9,3 +9,4 @@ for i in range(2, end + 1):
 
 # mcp 테스트
 a = 123
+b = 456
